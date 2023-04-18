@@ -15,6 +15,7 @@ _Error: Not able to add reference to a project with same name as CDS project wit
 
 For example if you named your repo pcf-autocomplete-component, below will be the folder structure.
 
+
 ```
 \
 |   .gitignore
